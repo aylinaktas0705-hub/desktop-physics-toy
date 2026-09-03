@@ -11,3 +11,4 @@ A transparent desktop overlay built in Java. A physics ball bounces around the s
 - Then run: java --enable-native-access=ALL-UNNAMED -cp .;jna-5.14.0.jar;jna-platform-5.14.0.jar Main
 
 Built with Java 21 and JNA :)
+I was just playing around. I promise this is not a virus
